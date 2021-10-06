@@ -1,0 +1,25 @@
+.exemple {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .exemple-1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .exemple-2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  .exemple-3 {
+    font-family: Tahoma, Verdana, sans-serif;
+    }
+    h1 {
+        text-align: center;
+      }
+      
+      h2 {
+        text-align: left;
+      }
+      
+      h3 {
+        text-align: right;
+      }
